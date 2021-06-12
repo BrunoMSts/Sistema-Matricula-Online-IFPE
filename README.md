@@ -8,3 +8,5 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
 
 ## Checklist
 -----------Em progresso---------
+
+## Time
