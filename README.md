@@ -12,7 +12,7 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
  - [Descrição do problema]() 
  - Kick-off ***(17/06/2021)***
    - **Documentação**
-     > [Slide](SGE/Slide%20Kick-off.pptx)<br>
+     > [Slide](SGE/Slide%20Kick-off.pdf)<br>
      > [Termo de abertura](/PGP/Termo%20de%20Abertura.pdf)<br>
      > [PMCanvas](/PGP/PMCanvas_Abertura.PNG)
  - 1º Status Report ***(08/07/2021)***
