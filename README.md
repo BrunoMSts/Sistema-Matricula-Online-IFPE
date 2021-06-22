@@ -9,7 +9,7 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
 ## Cronograma
  - Apresentação dos Problemas reais pelo Cliente  ***(01/06/2021)***
  - Interação com o cliente  ***(08/06/2021)***
- - [Descrição do problema]() 
+ - [Descrição do problema](SGE/Descrição-do-Problema.md) 
  - Kick-off ***(17/06/2021)***
    - **Documentação**
      > [Slide](SGE/Slide%20Kick-off.pdf)<br>
