@@ -20,8 +20,8 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
  - Validação do modelo com o cliente ***(01/07/2021)***
  - 1º Status Report ***(08/07/2021)***
    - **Documentação**
-     > --
+     > [Slide](/SGE/1º%20Status%20Report.pdf)
 ## Time
 
-| <img src="https://avatars.githubusercontent.com/u/49536304?v=4" width="100px;" alt="Bruno Martins"/><br>Bruno Martins<br><bms3@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/51493065?v=4" width="100px;" alt="Giovani Albuquerque"/> <br>Giovani Albuquerque<br><gavs2@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52187353?v=4" width="100px;" alt="Gabriel Gomes"/> <br>Gabriel Gomes<br><ggm@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52244835?v=4" width="100px;" alt="Carlos Henrique"/> <br>Carlos Henrique<br><chsf@cin.ufpe.br>|<img src="https://static.vecteezy.com/ti/vetor-gratis/p1/1894304-man-avatar-thinking-with-question-marks-vector-design-gr%C3%A1tis-vetor.jpg" width="100px;" alt="Adriel Filipe"/> <br>Adriel Filipe<br><afcps@cin.ufpe.br>
+| <img src="https://avatars.githubusercontent.com/u/49536304?v=4" width="100px;" alt="Bruno Martins"/><br>Bruno Martins<br><bms3@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/51493065?v=4" width="100px;" alt="Giovani Albuquerque"/> <br>Giovani Albuquerque<br><gavs2@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52187353?v=4" width="100px;" alt="Gabriel Gomes"/> <br>Gabriel Gomes<br><ggm@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52244835?v=4" width="100px;" alt="Carlos Henrique"/> <br>Carlos Henrique<br><chsf@cin.ufpe.br>|<img <br>Adriel Filipe<br>
 |-|-|-|-|-|
