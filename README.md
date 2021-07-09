@@ -18,6 +18,7 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
  - Modelagem BPMN ***(22/06/2021)***
  - Reunião com o Diretor de Gestão Acadêmica - Lenilton ***(28/06/2021)***
  - Validação do modelo com o cliente ***(01/07/2021)***
+ - [Modelagem AS-IS](GPN/Matrículas%20IFPE%20(AS%20IS)%20-%20Versão%201.2.png) ***(06/07/2021)***
  - 1º Status Report ***(08/07/2021)***
    - **Documentação**
      > [Slide](/SGE/1º%20Status%20Report.pdf)
