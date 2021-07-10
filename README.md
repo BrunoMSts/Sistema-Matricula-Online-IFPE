@@ -13,7 +13,7 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
  - Kick-off ***(17/06/2021)***
    - **Documentação**
      > [Slide](SGE/Slide%20Kick-off.pdf)<br>
-     > [Termo de abertura](/PGP/Termo%20de%20Abertura.pdf)<br>
+     > [Termo de abertura](/PGP/Termo%20de%20Abertura%20-%20Time%202.pdf)<br>
      > [PMCanvas](/PGP/PMCanvas_Abertura.PNG)
  - Modelagem BPMN ***(22/06/2021)***
  - Reunião com o Diretor de Gestão Acadêmica - Lenilton ***(28/06/2021)***
