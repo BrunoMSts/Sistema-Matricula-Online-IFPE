@@ -22,6 +22,7 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
  - 1º Status Report ***(08/07/2021)***
    - **Documentação**
      > [Slide](/SGE/1º%20Status%20Report.pdf)
+     > [Plano de projeto](/SGE/_Plano%20de%20Projeto%20Preliminar.pdf)
 ## Time
 
 | <img src="https://avatars.githubusercontent.com/u/49536304?v=4" width="100px;" alt="Bruno Martins"/><br>Bruno Martins<br><bms3@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/51493065?v=4" width="100px;" alt="Giovani Albuquerque"/> <br>Giovani Albuquerque<br><gavs2@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52187353?v=4" width="100px;" alt="Gabriel Gomes"/> <br>Gabriel Gomes<br><ggm@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52244835?v=4" width="100px;" alt="Carlos Henrique"/> <br>Carlos Henrique<br><chsf@cin.ufpe.br> |
