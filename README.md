@@ -18,11 +18,21 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
  - Modelagem BPMN ***(22/06/2021)***
  - Reunião com o Diretor de Gestão Acadêmica - Lenilton ***(28/06/2021)***
  - Validação do modelo com o cliente ***(01/07/2021)***
- - [Modelagem AS-IS](GPN/Matrículas%20IFPE%20(AS%20IS)%20-%20Versão%201.2.png) ***(06/07/2021)***
+ - [Modelagem AS-IS 1.2](GPN/Matrículas%20IFPE%20(AS%20IS)%20-%20Versão%201.2.png) ***(06/07/2021)***
  - 1º Status Report ***(08/07/2021)***
    - **Documentação**
      > [Slide](/SGE/1º%20Status%20Report.pdf)<br>
      > [Plano de projeto](/PGP/_Plano%20de%20Projeto%20Preliminar.docx.pdf)
+ - Reunião com Heber Claudius ***(14/07/2021)***
+ - Acompanhamento dos Artefatos ***(27/07/2021)***
+ - 2ª Reunião com o Diretor de Gestão Acadêmica - Lenilton ***(28/07/2021)***
+ - 2º Status Report ***(05/08/2021)***
+   - **Documentação**
+     >[Slide]
+     >[Modelagem AS-IS Final]
+     >[Modelagem TO-BE Final]
+     >[Modelagem I* AS-IS]
+     >[Modelagem I* TO-BE]
 ## Time
 
 | <img src="https://avatars.githubusercontent.com/u/49536304?v=4" width="100px;" alt="Bruno Martins"/><br>Bruno Martins<br><bms3@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/51493065?v=4" width="100px;" alt="Giovani Albuquerque"/> <br>Giovani Albuquerque<br><gavs2@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52187353?v=4" width="100px;" alt="Gabriel Gomes"/> <br>Gabriel Gomes<br><ggm@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52244835?v=4" width="100px;" alt="Carlos Henrique"/> <br>Carlos Henrique<br><chsf@cin.ufpe.br> |
