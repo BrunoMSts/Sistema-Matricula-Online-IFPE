@@ -28,7 +28,9 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
  - 2ª Reunião com o Diretor de Gestão Acadêmica - Lenilton ***(28/07/2021)***
  - 2º Status Report ***(05/08/2021)***
    - **Documentação**
+     > ## SGE
      >[Slide](/SGE/2º%20Status%20Report%20(1).pdf)<br>
+     > ## GPN
      >[Modelagem AS-IS Final](/GPN/Matrículas%20IFPE%20(AS%20IS)%20-%20Versão%20final%20(2).png)<br>
      >[Modelagem TO-BE Final](/GPN/Matrículas%20IFPE%20(TO%20BE)%20-%20Versão%20final%20(2).png)<br>
      >[Modelagem I* AS-IS](/GPN/I-Star%20AS-IS.JPG)<br>
@@ -36,6 +38,13 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
      >[Ishikawa Análise dos Documentos](/GPN/Ishikawa%20Análise%20dos%20Documentos.JPG)<br>
      >[Ishikawa Não Padronização dos Arquivos](/GPN/Ishikawa%20Não%20Padronização%20dos%20Arquivos.JPG)<br>
      >[Ishikawa Falta de Reaproveitamento](/GPN/Ishikawa%20Falta%20de%20Reaproveitamento.JPG)<br>
+     > ## PGP
+     >[EAP](/PGP/Gerência%20de%20Escopo_EAP.pdf)<br>
+     >[Plano de Gerenciamento Controle de qualidade](/PGP/Gerência%20da%20Qualidade_Plano%20de%20Controle%20da%20Qualidade%20do%20projeto.docx.pdf)<br>
+     >[Plano de Gerenciamento de Custos](/PGP/Gerência%20de%20Custos_Plano%20de%20Gerenciamento%20de%20custos%20do%20projeto.docx.pdf)<br>
+     >[Requisitos do produto](/PGP/Gerência%20de%20Escopo_Requisitos%20do%20produto.docx.pdf)<br>
+     >[Plano de Gerenciamento de riscos](/PGP/Plano%20de%20Gerenciamento%20de%20Riscos%20do%20projeto.docx.pdf)<br>
+
 ## Time
 
 | <img src="https://avatars.githubusercontent.com/u/49536304?v=4" width="100px;" alt="Bruno Martins"/><br>Bruno Martins<br><bms3@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/51493065?v=4" width="100px;" alt="Giovani Albuquerque"/> <br>Giovani Albuquerque<br><gavs2@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52187353?v=4" width="100px;" alt="Gabriel Gomes"/> <br>Gabriel Gomes<br><ggm@cin.ufpe.br>|<img src="https://avatars.githubusercontent.com/u/52244835?v=4" width="100px;" alt="Carlos Henrique"/> <br>Carlos Henrique<br><chsf@cin.ufpe.br> |
