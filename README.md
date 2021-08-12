@@ -40,7 +40,7 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
      >[Ishikawa Falta de Reaproveitamento](/GPN/Ishikawa%20Falta%20de%20Reaproveitamento.JPG)<br>
      > ## PGP
      >[EAP](/PGP/Gerência%20de%20Escopo_EAP.pdf)<br>
-     >[Plano de Gerencia de Escopo](/PGP/Gerência%20de%20Escopo_Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.docx.pdf)<br>
+     >[Plano de Gerenciamento de Escopo](/PGP/Gerência%20de%20Escopo_Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.docx.pdf)<br>
      >[Plano de Gerenciamento Controle de qualidade](/PGP/Gerência%20da%20Qualidade_Plano%20de%20Controle%20da%20Qualidade%20do%20projeto.docx.pdf)<br>
      >[Plano de Gerenciamento de Custos](/PGP/Gerência%20de%20Custos_Plano%20de%20Gerenciamento%20de%20custos%20do%20projeto.docx.pdf)<br>
      >[Requisitos do produto](/PGP/Gerência%20de%20Escopo_Requisitos%20do%20produto.docx.pdf)<br>
