@@ -49,7 +49,7 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
   - 3º Status Report | Entrega Final ***(26/08/2021)***
     - **Documentação**
       > ## SGE
-      > [Slide](/SGE/3º%20Status%20Report%20.pdf)<br>
+      > [Slide](/SGE/3º%20Status%20Report.pdf)<br>
       > ## GPN
       > [Processos de Negócio Final](/GPN/Documento%20de%20Processos%20de%20Negócio%20Final%20-%20Sistema%20de%20Matrícula%20de%20Novos%20Ingressantes%20no%20IFPE.pdf)<br>
       > ## PGP
