@@ -36,7 +36,7 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
      >[Modelagem I* AS-IS](/GPN/I-Star%20AS-IS.JPG)<br>
      >[Modelagem I* TO-BE](/GPN/I-Star%20TO-BE.JPG)<br>
      >[Ishikawa Análise dos Documentos](/GPN/Ishikawa%20-%20Análise%20dos%20documentos.JPG)<br>
-     >[Ishikawa Não Padronização dos Arquivos](/GPN/Ishikawa%20-%20Não%20Padronização.JPG)<br>
+     >[Ishikawa Não Padronização dos Arquivos](/GPN/Ishikawa%20-%20Não%20padronização.JPG)<br>
      >[Ishikawa Falta de Reaproveitamento](/GPN/Ishikawa%20-%20Falta%20de%20Reaproveitamento.JPG)<br>
      > ## PGP
      >[EAP](/PGP/Gerência%20de%20Escopo_EAP.pdf)<br>
