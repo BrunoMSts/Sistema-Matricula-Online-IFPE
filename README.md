@@ -51,7 +51,7 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
       > ## SGE
       > [Slide](/SGE/3º%20Status%20Report.pdf)<br>
       > ## GPN
-      > [Processos de Negócio Final](/GPN/Documento%20de%20Processos%20de%20Negócio%20Final%20-%20Sistema%20de%20Matrícula%20de%20Novos%20Ingressantes%20no%20IFPE.pdf)<br>
+      > [Processos de Negócio Final](/GPN/Documento%20de%20Processos%20de%20Negócio%20Final-%20Sistema%20de%20Matrícula%20de%20Novos%20Ingressantes%20no%20IFPE.pdf)<br>
       > ## PGP
       > [Termo de Encerramento](/PGP/Termo%20de%20encerramento%20do%20projeto.pdf)<br>
 
