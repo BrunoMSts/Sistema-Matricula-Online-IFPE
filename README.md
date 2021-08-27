@@ -35,9 +35,9 @@ Nosso projeto tem como objetivo sanar e tratar esses problemas gerado pelo alto 
      >[Modelagem TO-BE Final](/GPN/Matrículas%20IFPE%20(TO%20BE)%20-%20Versão%20final%20(2).png)<br>
      >[Modelagem I* AS-IS](/GPN/I-Star%20AS-IS.JPG)<br>
      >[Modelagem I* TO-BE](/GPN/I-Star%20TO-BE.JPG)<br>
-     >[Ishikawa Análise dos Documentos](/GPN/Ishikawa%20Análise%20dos%20Documentos.JPG)<br>
-     >[Ishikawa Não Padronização dos Arquivos](/GPN/Ishikawa%20Não%20Padronização%20dos%20Arquivos.JPG)<br>
-     >[Ishikawa Falta de Reaproveitamento](/GPN/Ishikawa%20Falta%20de%20Reaproveitamento.JPG)<br>
+     >[Ishikawa Análise dos Documentos](/GPN/Ishikawa%20-%20Análise%20dos%20documentos.JPG)<br>
+     >[Ishikawa Não Padronização dos Arquivos](/GPN/Ishikawa%20-%20Não%20Padronização.JPG)<br>
+     >[Ishikawa Falta de Reaproveitamento](/GPN/Ishikawa%20-%20Falta%20de%20Reaproveitamento.JPG)<br>
      > ## PGP
      >[EAP](/PGP/Gerência%20de%20Escopo_EAP.pdf)<br>
      >[Plano de Gerenciamento de Escopo](/PGP/Gerência%20de%20Escopo_Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.docx.pdf)<br>
